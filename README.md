@@ -8,7 +8,7 @@
 Languages  :  Python, PHP, HTML, CSS, BROWSERJS
   Discord  :  Ice Bear#0167
 ```
-<--
+<!--
 I stole this from ecriminal
 -->
 <p align="left">
