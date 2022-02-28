@@ -3,8 +3,9 @@
 ```csharp
 I ♥ exploits
 ----------------
-       OS  :  Windows 10
+       OS  :  Windows
       CPU  :  Ryzen 5 3600
+      GPU  :  RX 5700 XT
 Languages  :  PHP, Python, HTML, CSS, BROWSERJS
   Discord  :  Ice Bear#0167
 ```
