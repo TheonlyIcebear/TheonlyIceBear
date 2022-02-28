@@ -1,20 +1,12 @@
-```zsh
-> neofetch
-```
-
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
 ecriminal@github
 ----------------
-       OS  :  macOS arm64
-       WM  :  yabai
-    Shell  :  zsh 5.8
- Terminal  :  iTerm2
-      CPU  :  Apple M1
-    Alias  :  cs/checksum
-Languages  :  C, Go, PHP, Python, Java
-  Discord  :  806059275678908418
+       OS  :  Windows 10
+      CPU  :  Ryzen 5 3600
+Languages  :  PHP, Python, HTML, CSS, BROWSERJS
+  Discord  :  Ice Bear#0167
 ```
 
 <p align="left">
