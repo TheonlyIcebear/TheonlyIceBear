@@ -1,12 +1,11 @@
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+<h2>I ♥ Web devolopment</h2>
+<img align="left" src="https://c.tenor.com/pcw4us9DIyoAAAAM/we-bare-bears-snow-bear.gif" alt="logo.png" width="200" /> 
 
 ```csharp
-I ♥ exploits
-----------------
        OS  :  Windows
       CPU  :  Ryzen 5 3600
       GPU  :  RX 5700 XT
-Languages  :  PHP, Python, HTML, CSS, BROWSERJS
+Languages  :  Python, PHP, HTML, CSS, BROWSERJS
   Discord  :  Ice Bear#0167
 ```
 
