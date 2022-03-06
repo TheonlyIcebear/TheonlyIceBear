@@ -12,7 +12,7 @@ Languages  :  Python, PHP, HTML, CSS, BROWSERJS
 <!--
 I stole this from ecriminal
 -->
-<p>&nbsp;<img style="float:left" src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Kingollie2552" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Kingollie2552" /></p>
  
 </samp>
  </p
