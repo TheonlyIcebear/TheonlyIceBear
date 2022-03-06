@@ -20,8 +20,6 @@ I stole this from ecriminal
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
   <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheonlyIcebear&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Kingollie2552" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-dark" alt="Kingollie2552" /></p>
  
 </samp>
