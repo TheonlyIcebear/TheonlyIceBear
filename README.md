@@ -13,3 +13,4 @@ Languages  :  Python, PHP, HTML, CSS, BROWSERJS
 <!--
 I stole this from ecriminal
 -->
+<script>
