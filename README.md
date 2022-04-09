@@ -3,6 +3,7 @@
 <img align="left" style="position:relative" src="https://c.tenor.com/pcw4us9DIyoAAAAM/we-bare-bears-snow-bear.gif" alt="logo.png" width="200" /> 
 </p>
 <br><br><br><br><br><br><br><br><br>
+<center>
 
 ```csharp
        OS  :  Windows
@@ -12,3 +13,5 @@
 Languages  :  Python, PHP, HTML, CSS, BROWSERJS
   Discord  :  Ice Bear#0167
 ```
+
+</center>
