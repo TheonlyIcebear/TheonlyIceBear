@@ -6,7 +6,7 @@
        OS  :  Windows
       CPU  :  Ryzen 5 3600
       GPU  :  RX 5700 XT
-   STATUS  :  Making Shit
+   STATUS  :  Devoloping
 Languages  :  Python, PHP, HTML, CSS, BROWSERJS, NODEJS
   Discord  :  Ice Bear#0167
 ```
