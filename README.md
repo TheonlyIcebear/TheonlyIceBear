@@ -1,7 +1,7 @@
 
-
 <div id="header" align="center">
        <h2>I ♥ Coding</h2>
+       <img src="https://i.gifer.com/3HeZ.gif">
        <img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
        <br>
        <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
