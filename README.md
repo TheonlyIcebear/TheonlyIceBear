@@ -1,6 +1,8 @@
 <h2>I ♥ Coding</h2>
+<center>
 <p>&nbsp;<img align="left" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
 </p>
+</center>
 
 ```csharp
        OS  :  Windows
