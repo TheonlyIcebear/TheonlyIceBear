@@ -4,8 +4,6 @@
 
 <p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="Ice Bear's Github Stats"/>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square" alt="icebearstats" /> </p>
 
 <br>
