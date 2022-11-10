@@ -8,7 +8,7 @@
        
        <img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="Ice Bear's Github Stats"/>
        
-       <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square" alt="cutecatstats" /> </p>
+       <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square" alt="icebearstats" /> </p>
 
        <br>
 
@@ -30,3 +30,11 @@
 
 
 
+```csharp
+       OS  :  Windows
+      CPU  :  Ryzen 5 3600
+      GPU  :  RX 5700 XT
+   STATUS  :  Developing
+Languages  :  Python, PHP, HTML, CSS, BROWSERJS, NODEJS
+  Discord  :  Ice Bear#0167
+```
