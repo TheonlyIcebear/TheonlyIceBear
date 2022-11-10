@@ -2,17 +2,17 @@
 <div id="header" align="center">
        <h2>I ♥ Coding</h2>
 
-       <img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
-       
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
-       
-       <img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="Ice Bear's Github Stats"/>
-       
-       <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square" alt="icebearstats" /> </p>
+<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
 
-       <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&count_private=true&theme=bear" alt="WaterBong's Github Stats"/>  
 
-       <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=astriogamer&theme=nord&margin-w=15&margin-h=1&column=6" alt="Ice Bear's Github Stats"/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square" alt="icebearstats" /> </p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
 
 </div>
 <br><br><br>
