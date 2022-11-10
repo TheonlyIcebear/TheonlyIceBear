@@ -1,6 +1,11 @@
 
 <div id="header" align="center">
-<h2>I ♥ Coding</h2>
+<h2>About Me 👋</h2>
+
+- Coding for about 3 years now
+- 13 years old
+- I really love math, and hacking
+
 
 <p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
 
