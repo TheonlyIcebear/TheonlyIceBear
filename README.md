@@ -37,5 +37,5 @@ I love math, coding and hacking 👩‍🔬 <br>
       GPU  :  RX 5700 XT
    STATUS  :  Developing
 Languages  :  Python, PHP, HTML, CSS, BROWSERJS, NODEJS
-  Discord  :  Ice Bear#0167
+  Discord  :  onlyicebear
 ```
