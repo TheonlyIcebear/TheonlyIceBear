@@ -3,7 +3,7 @@
 
 Coding for about 3 years now 🖥 <br>
 
-13 years old 🧑 <br>
+14 years old 🧑 <br>
 
 I love math, coding and hacking 👩‍🔬 <br>
 
