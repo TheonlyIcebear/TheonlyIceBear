@@ -33,7 +33,7 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 ```csharp
        OS  :  Windows
-      CPU  :  Ryzen 5 3600
+      CPU  :  Ryzen 9 5900x
       GPU  :  RX 5700 XT
    STATUS  :  Developing
 Languages  :  Python, PHP, HTML, CSS, BROWSERJS, NODEJS
