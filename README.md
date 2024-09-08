@@ -34,7 +34,7 @@ I love math, coding and hacking 👩‍🔬 <br>
 ```csharp
        OS  :  Windows
       CPU  :  Ryzen 9 5900x
-      GPU  :  RX 5700 XT
+      GPU  :  RTX 4070 SUPER
    STATUS  :  Developing
 Languages  :  Python, PHP, HTML, CSS, BROWSERJS, NODEJS
   Discord  :  onlyicebear
