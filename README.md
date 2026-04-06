@@ -38,10 +38,10 @@ A 3D cube renderer running entirely in the terminal using custom math and projec
 
 ### 🧠 <a href="https://github.com/TheonlyIcebear/SepticX  ">SepticX  </a>
 ```
-A machine learning / AI-focused project exploring model behavior and optimization.  
- Uses TensorFlow for model development  
- Focuses on experimentation and performance tuning  
- Showcases applied AI concepts beyond basic tutorials
+A low-level / experimental project focused on systems, security, or advanced runtime behavior.
+- Explores non-standard or unconventional programming techniques  
+- Focuses on understanding how software interacts with the system  
+- Demonstrates deeper technical curiosity beyond typical high-level applications  
 ```
 
 <br>
