@@ -20,6 +20,43 @@ I love math, coding and hacking 👩‍🔬 <br>
 </div>
 <br><br><br>
 
+<div align="center">
+<h1> 🚀 Top Projects </h1>
+</div>
+
+<div align="center">
+
+### 🧊 <a href="https://github.com/TheonlyIcebear/CLI-Cube-Renderer  ">CLI Cube Renderer  </a>
+```
+A 3D cube renderer running entirely in the terminal using custom math and projection logic.  
+ Built from scratch (no graphics libraries)  
+ Implements 3D rotation + perspective projection  
+ Demonstrates understanding of linear algebra and rendering pipelines
+```
+
+<br>
+
+### 🧠 <a href="https://github.com/TheonlyIcebear/SepticX  ">SepticX  </a>
+```
+A machine learning / AI-focused project exploring model behavior and optimization.  
+ Uses TensorFlow for model development  
+ Focuses on experimentation and performance tuning  
+ Showcases applied AI concepts beyond basic tutorials
+```
+
+<br>
+
+### 📚 <a href="https://github.com/TheonlyIcebear/PyStacks  ">PyStacks  </a>
+```
+A custom data structures implementation project in Python.  
+ Stack-based systems built from scratch  
+ Emphasis on core CS fundamentals  
+ Clean and reusable logic design
+```
+
+</div>
+<br><br><br>
+
 <div  align="center">
        <h1> 🛠 Languages and Libraries </h1>
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
