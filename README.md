@@ -1,9 +1,9 @@
 <div id="header" align="center">
 <h2>About Me 👋</h2>
 
-Coding for about 3 years now 🖥 <br>
+Coding for about 4 years now 🖥 <br>
 
-15 years old 🧑 <br>
+16 years old 🧑 <br>
 
 I love math, coding and hacking 👩‍🔬 <br>
 
