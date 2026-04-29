@@ -26,6 +26,16 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 <div align="center">
 
+### 📚 <a href="https://github.com/TheonlyIcebear/PyStacks  ">PyStacks  </a>
+```
+Neural Network library project in Python.  
+ Built from scratch with low level functions
+ Designed to train and test A.I
+ Clean and reusable logic design
+```
+
+<br>
+
 ### 🧊 <a href="https://github.com/TheonlyIcebear/CLI-Cube-Renderer  ">CLI Cube Renderer  </a>
 ```
 A 3D cube renderer running entirely in the terminal using custom math and projection logic.  
@@ -45,14 +55,6 @@ A low-level / experimental project focused on systems, security, or advanced run
 ```
 
 <br>
-
-### 📚 <a href="https://github.com/TheonlyIcebear/PyStacks  ">PyStacks  </a>
-```
-AI Training library project in Python.  
- Stack-based Neural Netowrks built from scratch  
- Emphasis on core CS fundamentals  
- Clean and reusable logic design
-```
 
 </div>
 <br><br><br>
