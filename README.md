@@ -48,8 +48,8 @@ A low-level / experimental project focused on systems, security, or advanced run
 
 ### 📚 <a href="https://github.com/TheonlyIcebear/PyStacks  ">PyStacks  </a>
 ```
-A custom data structures implementation project in Python.  
- Stack-based systems built from scratch  
+AI Training library project in Python.  
+ Stack-based Neural Netowrks built from scratch  
  Emphasis on core CS fundamentals  
  Clean and reusable logic design
 ```
