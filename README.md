@@ -47,7 +47,7 @@ A 3D cube renderer running entirely in the terminal using custom math and projec
 <br>
 
 
-### ✅ <a href="https://github.com/TheonlyIcebear/Discord-Verify-Bot">Discord Verify Bot</a>
+### 🤖 <a href="https://github.com/TheonlyIcebear/Discord-Verify-Bot">Discord Verify Bot</a>
 ```
 A bot that verifies members and automatically re-adds them to any server.
  Built with Discord OAuth2 for secure verification
