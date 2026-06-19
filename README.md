@@ -46,12 +46,13 @@ A 3D cube renderer running entirely in the terminal using custom math and projec
 
 <br>
 
-### 🧠 <a href="https://github.com/TheonlyIcebear/SepticX  ">SepticX  </a>
+
+### ✅ <a href="https://github.com/TheonlyIcebear/Discord-Verify-Bot">Discord Verify Bot</a>
 ```
-A low-level / experimental project focused on systems, security, or advanced runtime behavior.
-- Explores non-standard or unconventional programming techniques  
-- Focuses on understanding how software interacts with the system  
-- Demonstrates deeper technical curiosity beyond typical high-level applications  
+A bot that verifies members and automatically re-adds them to any server.
+ Built with Discord OAuth2 for secure verification
+ Stores auth tokens to bulk rejoin users on demand
+ Custom commands for verification, rejoining, and data export
 ```
 
 <br>
