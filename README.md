@@ -11,7 +11,7 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Python 🚀
 
-<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
+<p>&nbsp;<img align="center" style="position:absolute" src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
 
 <br>
 
@@ -26,7 +26,7 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 <div align="center">
 
-### 📚 <a href="https://github.com/TheonlyIcebear/PyStacks  ">PyStacks  </a>
+### 📚 <a href="https://github.com/TheonlyIcebear/PyStacks">PyStacks</a>
 ```
 Neural Network library project in Python.  
  Built from scratch with low level functions
@@ -36,7 +36,7 @@ Neural Network library project in Python.
 
 <br>
 
-### 🧊 <a href="https://github.com/TheonlyIcebear/CLI-Cube-Renderer  ">CLI Cube Renderer  </a>
+### 🧊 <a href="https://github.com/TheonlyIcebear/CLI-Cube-Renderer">CLI Cube Renderer</a>
 ```
 A 3D cube renderer running entirely in the terminal using custom math and projection logic.  
  Built from scratch (no graphics libraries)  
@@ -45,7 +45,6 @@ A 3D cube renderer running entirely in the terminal using custom math and projec
 ```
 
 <br>
-
 
 ### 🤖 <a href="https://github.com/TheonlyIcebear/Discord-Verify-Bot">Discord Verify Bot</a>
 ```
@@ -57,8 +56,25 @@ A bot that verifies members and automatically re-adds them to any server.
 
 <br>
 
+### ⚠️ <a href="https://github.com/TheonlyIcebear/Python-GDI-Trollware">Python GDI Trollware</a>
+```
+A Windows graphical payload experimentation project featuring various visual effects and system-level demonstrations.
+ Includes Mandelbrot fractal generators, XoR fractals, and custom ByteBeats.
+ Intended for use in sandboxed environments (e.g., virtual machines) for fun.
+```
+
+<br>
+
+### 🔐 <a href="https://github.com/TheonlyIcebear/Roblox-Pin-Bruteforcer">Roblox Pin Bruteforcer</a>
+```
+A tool designed to explore rate-limited PIN authentication behavior through automated guessing.
+ Implements persistent progress saving and runs without requiring manual setup of dependencies.
+ Designed for educational and security research purposes within platform constraints.
+```
+
+<br>
+
 </div>
-<br><br><br>
 
 <div  align="center">
        <h1> 🛠 Languages and Libraries </h1>
@@ -68,8 +84,7 @@ A bot that verifies members and automatically re-adds them to any server.
        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
+       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <div  align="center">
