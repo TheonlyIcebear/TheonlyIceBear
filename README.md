@@ -36,7 +36,7 @@ Neural Network library project in Python.
 
 <br>
 
-### 🌀 <a href="https://github.com/TheonlyIcebear/Golden-Spiral-Detector">Golden Spiral Detector</a>
+### 🌀 <a href="https://github.com/TheonlyIcebear/Spiral-Detector">Golden Spiral Detector</a>
 ```
 A research project that algorithmically tests whether the Golden Spiral is actually
 present in an image, instead of just eyeballing an overlay.
