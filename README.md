@@ -11,11 +11,11 @@ I love math, coding and hacking 👩‍🔬 <br>
 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> - Python 🚀
 
-<p>&nbsp;<img align="center" style="position:absolute"src="https://github-readme-stats.vercel.app/api?username=TheonlyIcebear&show_icons=true&locale=en&theme=chartreuse-light" alt="Ice Bear">
+[![TheonlyIcebear](https://github-stats-extended.vercel.app/api?username=TheonlyIcebear)](https://github.com/stats-organization/github-stats-extended)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=TheonlyIcebear&style=flat-square&color=blue" alt=""/>
+
 
 </div>
 <br><br><br>
@@ -93,6 +93,7 @@ A bot that verifies members and automatically re-adds them to any server.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-%23111F68.svg?style=for-the-badge&logo=yolo&logoColor=white)
 
 </div>
 
